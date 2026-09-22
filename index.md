@@ -12,6 +12,7 @@ Working at the intersection of acoustic instruments, improvisation, and technolo
 
 - [[Complexity Journal|Peripheral Oscillator Topology]] — complexity science and ethnographic research
 - Busking
+- Lost to AI
 - Country Music University
 - [[Lonesome Daze]] — music project
 - [[Public Instruments]] — ongoing research into publicly-sited instruments
