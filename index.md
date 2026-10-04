@@ -5,7 +5,7 @@ Hello, and welcome to my homepage where I have gathered a record of the various 
 
 I am:
 
-- An artist and composer making new music, creating happenings, and exploring public instruments
+- [[Artist and Composer|An artist and composer making new music, creating happenings, and exploring public instruments]] 
 - A songwriter stuffing unconventional images of contemporary society into conventional forms
 - An amateur scientist trying hard not to be a crank.
 - A teacher teaching what I love
